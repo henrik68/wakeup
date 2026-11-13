@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=WakeUp
+Comment=Alarm clock with slowly rising volume
+Comment[da]=Vækkeur med langsomt stigende lydstyrke
+Comment[de]=Wecker mit langsam ansteigender Lautstärke
+Comment[fr]=Réveil avec un volume qui augmente lentement
+Comment[es]=Despertador con volumen que sube lentamente
+Comment[it]=Sveglia con volume che aumenta lentamente
+Comment[nl]=Wekker met langzaam toenemend volume
+Exec=wakeup
+Icon=assets/icon.png
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true

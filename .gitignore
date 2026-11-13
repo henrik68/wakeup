@@ -1,0 +1,6 @@
+build/
+out/
+*.click
+build-*.log
+STORE_LISTING.md
+BUG_REPORT.md

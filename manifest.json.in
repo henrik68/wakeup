@@ -1,0 +1,15 @@
+{
+    "name": "wakeup.henrik68",
+    "title": "WakeUp",
+    "description": "Alarm clock with slowly rising volume",
+    "version": "1.0.0",
+    "architecture": "@CLICK_ARCH@",
+    "framework": "ubuntu-sdk-20.04",
+    "maintainer": "Henrik Christiansen <henrik.christiansen68@gmail.com>",
+    "hooks": {
+        "wakeup": {
+            "apparmor": "wakeup.apparmor",
+            "desktop": "wakeup.desktop"
+        }
+    }
+}

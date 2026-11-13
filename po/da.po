@@ -1,0 +1,190 @@
+# Danish translation of WakeUp (wakeup.henrik68). GPL-3.
+msgid ""
+msgstr ""
+"Project-Id-Version: wakeup.henrik68 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-13 09:21+0200\n"
+"PO-Revision-Date: 2026-11-12 12:00+0200\n"
+"Last-Translator: Henrik Christiansen\n"
+"Language-Team: Danish\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: qml/AlarmsPage.qml:14
+msgid "Alarms"
+msgstr "Alarmer"
+
+#: qml/AlarmsPage.qml:18 qml/EditPage.qml:22
+msgid "New alarm"
+msgstr "Ny alarm"
+
+#: qml/AlarmsPage.qml:23 qml/SettingsPage.qml:17
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: qml/AlarmsPage.qml:38
+msgid "Next alarm in %1"
+msgstr "Næste alarm om %1"
+
+#: qml/AlarmsPage.qml:39
+msgid "No alarm is on"
+msgstr "Ingen alarm er slået til"
+
+#: qml/AlarmsPage.qml:85
+msgid "Delete"
+msgstr "Slet"
+
+#: qml/AlarmsPage.qml:98 qml/EditPage.qml:41 qml/EditPage.qml:95
+#: qml/EditPage.qml:227
+msgid "Alarm"
+msgstr "Alarm"
+
+#: qml/AlarmsPage.qml:123
+msgid "No alarms yet"
+msgstr "Ingen alarmer endnu"
+
+#: qml/AlarmsPage.qml:130
+msgid "Tap + to add an alarm."
+msgstr "Tryk på + for at tilføje en alarm."
+
+#: qml/EditPage.qml:22
+msgid "Edit alarm"
+msgstr "Rediger alarm"
+
+#: qml/EditPage.qml:26
+msgid "Save"
+msgstr "Gem"
+
+#: qml/EditPage.qml:76
+msgid "Could not make the rising sound."
+msgstr "Kunne ikke lave lyden med langsom stigning."
+
+#: qml/EditPage.qml:104
+msgid "Could not save the alarm (error %1)."
+msgstr "Kunne ikke gemme alarmen (fejl %1)."
+
+#: qml/EditPage.qml:177
+msgid "Repeat"
+msgstr "Gentag"
+
+#: qml/EditPage.qml:214 qml/Main.qml:64
+msgid "Once"
+msgstr "Én gang"
+
+#: qml/EditPage.qml:215 qml/Main.qml:66
+msgid "Weekdays"
+msgstr "Hverdage"
+
+#: qml/EditPage.qml:216 qml/Main.qml:65
+msgid "Every day"
+msgstr "Hver dag"
+
+#: qml/EditPage.qml:227
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: qml/EditPage.qml:236 qml/SoundPage.qml:14
+msgid "Sound"
+msgstr "Lyd"
+
+#: qml/EditPage.qml:251
+msgid "Slowly rising volume"
+msgstr "Langsom stigning"
+
+#: qml/EditPage.qml:272
+msgid "Starts quiet and reaches full volume after:"
+msgstr "Starter stille og når fuld lydstyrke efter:"
+
+#: qml/EditPage.qml:280
+msgid "30 s"
+msgstr "30 sek."
+
+#: qml/EditPage.qml:280
+msgid "1 min"
+msgstr "1 min"
+
+#: qml/EditPage.qml:281
+msgid "2 min"
+msgstr "2 min"
+
+#: qml/EditPage.qml:281
+msgid "5 min"
+msgstr "5 min"
+
+#: qml/EditPage.qml:297 qml/SettingsPage.qml:63
+msgid "Snooze length"
+msgstr "Varighed af snooze"
+
+#: qml/EditPage.qml:298
+msgid "Same for all alarms (system setting)."
+msgstr "Samme for alle alarmer (systemindstilling)."
+
+#: qml/EditPage.qml:301 qml/SettingsPage.qml:22
+msgid "%1 min."
+msgstr "%1 min."
+
+#: qml/EditPage.qml:317
+msgid "Preparing the rising sound…"
+msgstr "Forbereder lyden med langsom stigning…"
+
+#: qml/EditPage.qml:336
+msgid "Delete alarm"
+msgstr "Slet alarm"
+
+#: qml/Main.qml:67
+msgid "Weekend"
+msgstr "Weekend"
+
+#: qml/Main.qml:92
+msgid "%1 min"
+msgstr "%1 min"
+
+#: qml/Main.qml:93
+msgid "%1 h %2 min"
+msgstr "%1 t %2 min"
+
+#: qml/SettingsPage.qml:47
+msgid ""
+"Could not reach the system alarm service, so these settings can't be changed "
+"right now."
+msgstr ""
+"Kunne ikke få forbindelse til systemets alarmtjeneste, så indstillingerne "
+"kan ikke ændres lige nu."
+
+#: qml/SettingsPage.qml:54
+msgid "These settings apply to all alarms, also in the Clock app."
+msgstr "Disse indstillinger gælder for alle alarmer, også i Ur-appen."
+
+#: qml/SettingsPage.qml:74
+msgid "Alarm ring time"
+msgstr "Alarmen ringer i"
+
+#: qml/SettingsPage.qml:86
+msgid "After this the alarm snoozes by itself."
+msgstr "Derefter snoozer alarmen af sig selv."
+
+#: qml/SettingsPage.qml:87
+msgid ""
+"When the ring time is made longer, WakeUp makes its rising sounds longer too "
+"(about 20 seconds per sound, while WakeUp is open)."
+msgstr ""
+"Når ringetiden gøres længere, gør WakeUp også sine lyde med stigning længere "
+"(ca. 20 sekunder pr. lyd, mens WakeUp er åben)."
+
+#: qml/SettingsPage.qml:92
+msgid "Alarm volume"
+msgstr "Alarmens lydstyrke"
+
+#: qml/SettingsPage.qml:111
+msgid "Vibrate"
+msgstr "Vibrer"
+
+#: qml/SoundPage.qml:18
+msgid "Stop"
+msgstr "Stop"
+
+#: qml/SoundPage.qml:40
+msgid "Tap a sound to hear it."
+msgstr "Tryk på en lyd for at høre den."

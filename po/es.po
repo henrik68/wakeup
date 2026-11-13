@@ -1,0 +1,192 @@
+# Spanish translation of wakeup.henrik68. GPL-3.
+msgid ""
+msgstr ""
+"Project-Id-Version: wakeup.henrik68\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-13 09:21+0200\n"
+"PO-Revision-Date: 2026-11-13 09:21+0200\n"
+"Last-Translator: Henrik Christiansen\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: qml/AlarmsPage.qml:14
+msgid "Alarms"
+msgstr "Alarmas"
+
+#: qml/AlarmsPage.qml:18 qml/EditPage.qml:22
+msgid "New alarm"
+msgstr "Nueva alarma"
+
+#: qml/AlarmsPage.qml:23 qml/SettingsPage.qml:17
+msgid "Settings"
+msgstr "Configuración"
+
+#: qml/AlarmsPage.qml:38
+msgid "Next alarm in %1"
+msgstr "Próxima alarma en %1"
+
+#: qml/AlarmsPage.qml:39
+msgid "No alarm is on"
+msgstr "Ninguna alarma activada"
+
+#: qml/AlarmsPage.qml:85
+msgid "Delete"
+msgstr "Eliminar"
+
+#: qml/AlarmsPage.qml:98 qml/EditPage.qml:41 qml/EditPage.qml:95
+#: qml/EditPage.qml:227
+msgid "Alarm"
+msgstr "Alarma"
+
+#: qml/AlarmsPage.qml:123
+msgid "No alarms yet"
+msgstr "Aún no hay alarmas"
+
+#: qml/AlarmsPage.qml:130
+msgid "Tap + to add an alarm."
+msgstr "Toca + para añadir una alarma."
+
+#: qml/EditPage.qml:22
+msgid "Edit alarm"
+msgstr "Editar alarma"
+
+#: qml/EditPage.qml:26
+msgid "Save"
+msgstr "Guardar"
+
+#: qml/EditPage.qml:76
+msgid "Could not make the rising sound."
+msgstr "No se pudo crear el sonido progresivo."
+
+#: qml/EditPage.qml:104
+msgid "Could not save the alarm (error %1)."
+msgstr "No se pudo guardar la alarma (error %1)."
+
+#: qml/EditPage.qml:177
+msgid "Repeat"
+msgstr "Repetir"
+
+#: qml/EditPage.qml:214 qml/Main.qml:64
+msgid "Once"
+msgstr "Una vez"
+
+#: qml/EditPage.qml:215 qml/Main.qml:66
+msgid "Weekdays"
+msgstr "Entre semana"
+
+#: qml/EditPage.qml:216 qml/Main.qml:65
+msgid "Every day"
+msgstr "Todos los días"
+
+#: qml/EditPage.qml:227
+msgid "Description"
+msgstr "Descripción"
+
+#: qml/EditPage.qml:236 qml/SoundPage.qml:14
+msgid "Sound"
+msgstr "Sonido"
+
+#: qml/EditPage.qml:251
+msgid "Slowly rising volume"
+msgstr "Volumen progresivo"
+
+#: qml/EditPage.qml:272
+msgid "Starts quiet and reaches full volume after:"
+msgstr "Empieza bajo y alcanza el volumen máximo tras:"
+
+#: qml/EditPage.qml:280
+msgid "30 s"
+msgstr "30 s"
+
+#: qml/EditPage.qml:280
+msgid "1 min"
+msgstr "1 min"
+
+#: qml/EditPage.qml:281
+msgid "2 min"
+msgstr "2 min"
+
+#: qml/EditPage.qml:281
+msgid "5 min"
+msgstr "5 min"
+
+#: qml/EditPage.qml:297 qml/SettingsPage.qml:63
+msgid "Snooze length"
+msgstr "Duración de posponer"
+
+#: qml/EditPage.qml:298
+msgid "Same for all alarms (system setting)."
+msgstr "Igual para todas las alarmas (ajuste del sistema)."
+
+#: qml/EditPage.qml:301 qml/SettingsPage.qml:22
+msgid "%1 min."
+msgstr "%1 min"
+
+#: qml/EditPage.qml:317
+msgid "Preparing the rising sound…"
+msgstr "Preparando el sonido progresivo…"
+
+#: qml/EditPage.qml:336
+msgid "Delete alarm"
+msgstr "Eliminar alarma"
+
+#: qml/Main.qml:67
+msgid "Weekend"
+msgstr "Fin de semana"
+
+#: qml/Main.qml:92
+msgid "%1 min"
+msgstr "%1 min"
+
+#: qml/Main.qml:93
+msgid "%1 h %2 min"
+msgstr "%1 h %2 min"
+
+#: qml/SettingsPage.qml:47
+msgid ""
+"Could not reach the system alarm service, so these settings can't be changed "
+"right now."
+msgstr ""
+"No se pudo conectar con el servicio de alarmas del sistema, así que estos "
+"ajustes no se pueden cambiar ahora."
+
+#: qml/SettingsPage.qml:54
+msgid "These settings apply to all alarms, also in the Clock app."
+msgstr ""
+"Estos ajustes se aplican a todas las alarmas, también en la aplicación Reloj."
+
+#: qml/SettingsPage.qml:74
+msgid "Alarm ring time"
+msgstr "Duración del timbre"
+
+#: qml/SettingsPage.qml:86
+msgid "After this the alarm snoozes by itself."
+msgstr "Después, la alarma se pospone sola."
+
+#: qml/SettingsPage.qml:87
+msgid ""
+"When the ring time is made longer, WakeUp makes its rising sounds longer too "
+"(about 20 seconds per sound, while WakeUp is open)."
+msgstr ""
+"Cuando se alarga la duración del timbre, WakeUp también alarga sus sonidos "
+"progresivos (unos 20 segundos por sonido, mientras WakeUp está abierto)."
+
+#: qml/SettingsPage.qml:92
+msgid "Alarm volume"
+msgstr "Volumen de la alarma"
+
+#: qml/SettingsPage.qml:111
+msgid "Vibrate"
+msgstr "Vibrar"
+
+#: qml/SoundPage.qml:18
+msgid "Stop"
+msgstr "Detener"
+
+#: qml/SoundPage.qml:40
+msgid "Tap a sound to hear it."
+msgstr "Toca un sonido para escucharlo."

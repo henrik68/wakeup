@@ -1,0 +1,7 @@
+{
+    "policy_groups": [
+        "audio",
+        "calendar"
+    ],
+    "policy_version": 20.04
+}

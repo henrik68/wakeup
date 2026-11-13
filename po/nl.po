@@ -1,0 +1,191 @@
+# Dutch translation of wakeup.henrik68. GPL-3.
+msgid ""
+msgstr ""
+"Project-Id-Version: wakeup.henrik68\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-13 09:21+0200\n"
+"PO-Revision-Date: 2026-11-13 09:21+0200\n"
+"Last-Translator: Henrik Christiansen\n"
+"Language-Team: Dutch\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: qml/AlarmsPage.qml:14
+msgid "Alarms"
+msgstr "Wekkers"
+
+#: qml/AlarmsPage.qml:18 qml/EditPage.qml:22
+msgid "New alarm"
+msgstr "Nieuwe wekker"
+
+#: qml/AlarmsPage.qml:23 qml/SettingsPage.qml:17
+msgid "Settings"
+msgstr "Instellingen"
+
+#: qml/AlarmsPage.qml:38
+msgid "Next alarm in %1"
+msgstr "Volgende wekker over %1"
+
+#: qml/AlarmsPage.qml:39
+msgid "No alarm is on"
+msgstr "Geen wekker aan"
+
+#: qml/AlarmsPage.qml:85
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: qml/AlarmsPage.qml:98 qml/EditPage.qml:41 qml/EditPage.qml:95
+#: qml/EditPage.qml:227
+msgid "Alarm"
+msgstr "Wekker"
+
+#: qml/AlarmsPage.qml:123
+msgid "No alarms yet"
+msgstr "Nog geen wekkers"
+
+#: qml/AlarmsPage.qml:130
+msgid "Tap + to add an alarm."
+msgstr "Tik op + om een wekker toe te voegen."
+
+#: qml/EditPage.qml:22
+msgid "Edit alarm"
+msgstr "Wekker bewerken"
+
+#: qml/EditPage.qml:26
+msgid "Save"
+msgstr "Opslaan"
+
+#: qml/EditPage.qml:76
+msgid "Could not make the rising sound."
+msgstr "Kon het oplopende geluid niet maken."
+
+#: qml/EditPage.qml:104
+msgid "Could not save the alarm (error %1)."
+msgstr "Kon de wekker niet opslaan (fout %1)."
+
+#: qml/EditPage.qml:177
+msgid "Repeat"
+msgstr "Herhalen"
+
+#: qml/EditPage.qml:214 qml/Main.qml:64
+msgid "Once"
+msgstr "Eenmalig"
+
+#: qml/EditPage.qml:215 qml/Main.qml:66
+msgid "Weekdays"
+msgstr "Werkdagen"
+
+#: qml/EditPage.qml:216 qml/Main.qml:65
+msgid "Every day"
+msgstr "Elke dag"
+
+#: qml/EditPage.qml:227
+msgid "Description"
+msgstr "Omschrijving"
+
+#: qml/EditPage.qml:236 qml/SoundPage.qml:14
+msgid "Sound"
+msgstr "Geluid"
+
+#: qml/EditPage.qml:251
+msgid "Slowly rising volume"
+msgstr "Langzaam oplopend volume"
+
+#: qml/EditPage.qml:272
+msgid "Starts quiet and reaches full volume after:"
+msgstr "Begint zacht en bereikt vol volume na:"
+
+#: qml/EditPage.qml:280
+msgid "30 s"
+msgstr "30 s"
+
+#: qml/EditPage.qml:280
+msgid "1 min"
+msgstr "1 min"
+
+#: qml/EditPage.qml:281
+msgid "2 min"
+msgstr "2 min"
+
+#: qml/EditPage.qml:281
+msgid "5 min"
+msgstr "5 min"
+
+#: qml/EditPage.qml:297 qml/SettingsPage.qml:63
+msgid "Snooze length"
+msgstr "Sluimerduur"
+
+#: qml/EditPage.qml:298
+msgid "Same for all alarms (system setting)."
+msgstr "Hetzelfde voor alle wekkers (systeeminstelling)."
+
+#: qml/EditPage.qml:301 qml/SettingsPage.qml:22
+msgid "%1 min."
+msgstr "%1 min"
+
+#: qml/EditPage.qml:317
+msgid "Preparing the rising sound…"
+msgstr "Oplopend geluid wordt voorbereid…"
+
+#: qml/EditPage.qml:336
+msgid "Delete alarm"
+msgstr "Wekker verwijderen"
+
+#: qml/Main.qml:67
+msgid "Weekend"
+msgstr "Weekend"
+
+#: qml/Main.qml:92
+msgid "%1 min"
+msgstr "%1 min"
+
+#: qml/Main.qml:93
+msgid "%1 h %2 min"
+msgstr "%1 u %2 min"
+
+#: qml/SettingsPage.qml:47
+msgid ""
+"Could not reach the system alarm service, so these settings can't be changed "
+"right now."
+msgstr ""
+"De wekkerdienst van het systeem is niet bereikbaar, dus deze instellingen "
+"kunnen nu niet worden gewijzigd."
+
+#: qml/SettingsPage.qml:54
+msgid "These settings apply to all alarms, also in the Clock app."
+msgstr "Deze instellingen gelden voor alle wekkers, ook in de Klok-app."
+
+#: qml/SettingsPage.qml:74
+msgid "Alarm ring time"
+msgstr "Belduur"
+
+#: qml/SettingsPage.qml:86
+msgid "After this the alarm snoozes by itself."
+msgstr "Daarna gaat de wekker vanzelf sluimeren."
+
+#: qml/SettingsPage.qml:87
+msgid ""
+"When the ring time is made longer, WakeUp makes its rising sounds longer too "
+"(about 20 seconds per sound, while WakeUp is open)."
+msgstr ""
+"Als de belduur langer wordt, maakt WakeUp zijn oplopende geluiden ook langer "
+"(ongeveer 20 seconden per geluid, terwijl WakeUp open is)."
+
+#: qml/SettingsPage.qml:92
+msgid "Alarm volume"
+msgstr "Wekkervolume"
+
+#: qml/SettingsPage.qml:111
+msgid "Vibrate"
+msgstr "Trillen"
+
+#: qml/SoundPage.qml:18
+msgid "Stop"
+msgstr "Stoppen"
+
+#: qml/SoundPage.qml:40
+msgid "Tap a sound to hear it."
+msgstr "Tik op een geluid om het te horen."
